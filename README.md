@@ -6,6 +6,7 @@
 - `git clone https://github.com/InsperCoding/Aula1-CV.git` ou `git clone git@github.com:InsperCoding/Aula1-CV.git`
 - `cd Aula1-CV`
 - `python -m venv venv` ou `python3 -m venv venv`
+- `pip install -r requirements.txt`
 - `source venv/bin/activate`
 
 #### Pronto! O âmbiente para rodar arquivos `.py` está pronto :)
